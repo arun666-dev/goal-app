@@ -1,8 +1,10 @@
-
 # GoalSetter App.
 
 User can register/login and perform CRUD operation on individual goals
 
+## Usage
+
+Create .env and add your MONGO_URI and JWT_SECRET
 
 ## Run Locally
 
@@ -28,7 +30,9 @@ npm install
 cd frontend
 npm install
 ```
+
 ### Install dependencies
+
 ```
 npm run server
 ```
