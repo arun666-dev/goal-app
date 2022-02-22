@@ -2,6 +2,10 @@
 
 User can register/login and perform CRUD operation on individual goals
 
+### [Live Site](https://goal-app7.herokuapp.com/)
+
+![Goal-Setter Application](https://i.imgur.com/lmHQDba.png)
+
 ## Usage
 
 Create .env and add your MONGO_URI and JWT_SECRET
